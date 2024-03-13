@@ -44,7 +44,7 @@ Through this analysis, several interesting findings have emerged:
 
 ## Usage
 
-To explore the visualizations and findings of this project, you can access the Tableau workbook file (`fifa_2021_analysis.twbx`) using Tableau Desktop or Tableau Public. The workbook contains interactive dashboards and worksheets, allowing you to filter, sort, and customize the visualizations according to your preferences.
+To explore the visualizations and findings of this project, you can access the Tableau workbook file (`Soccer 2021 Tableau.twbx`) using Tableau Desktop or Tableau Public. The workbook contains interactive dashboards and worksheets, allowing you to filter, sort, and customize the visualizations according to your preferences.
 
 ## Credits
 
